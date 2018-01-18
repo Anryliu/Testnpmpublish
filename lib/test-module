@@ -1,0 +1,3 @@
+// ES6的写法
+const age = 1 ;
+export default age;
